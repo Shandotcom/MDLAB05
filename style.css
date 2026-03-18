@@ -9,6 +9,12 @@ footer {
     font-size: 85%;
 }
 
-.ml-4{
+.links{
     opacity: 30%;
+    transition: .2s;
+}
+
+.links:hover{
+     opacity: 100%;
+     transition: .2s;
 }
